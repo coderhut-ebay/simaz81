@@ -78,6 +78,9 @@ a:hover {
 	display: inline-block;
 	list-style-type: none;
 }
+.hdr-nav ul li br {
+	display: none;
+}
 .hdr-nav ul li a {
 	display: block;
 	color: #fff;
